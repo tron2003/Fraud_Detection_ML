@@ -1,0 +1,1 @@
+In this project i am detecting fraud and not fraud happening in transaction dataset of hidden coded features in .csv file and with help of classification model in ML we detecting some fraud transaction with initial model using RandomForestClassifier
